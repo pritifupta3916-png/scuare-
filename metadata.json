@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Spare Parts Directory & Activity Console",
+  "description": "Full-stack mobile spare parts directory with brand slots, real-time search, bcrypt authentication, RBAC admin dashboard, and AI compatibility assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
